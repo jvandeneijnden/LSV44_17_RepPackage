@@ -1,4 +1,4 @@
-Readme for the VLA data analysis scripts.
+# Readme for the VLA data analysis scripts.
 
 For each of the observations, download the data via data.nrao.edu by searching for the program code of this observing program, i.e. VLA/22B-051. Select the observation(s) and download the raw data, not the pipeline (i.e. calibrated) data. 
 
