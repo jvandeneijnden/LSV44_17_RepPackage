@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/712985824.svg)](https://zenodo.org/doi/10.5281/zenodo.10063866)
+
 # Analysis reproduction repository for "VLA monitoring of LS V +44 17 reveals scatter in the X-ray -- radio correlation of Be/X-ray binaries"
 
 ![Light curves](PaperFigures/lc.png?raw=true "Light curves")
