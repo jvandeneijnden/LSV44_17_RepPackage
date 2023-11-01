@@ -1,6 +1,6 @@
 # Analysis reproduction repository for "VLA monitoring of LS V +44 17 reveals scatter in the X-ray -- radio correlation of Be/X-ray binaries"
 
-![Light curves](LC.png?raw=true "Light curves")
+![Light curves](PaperFigures/lc.png?raw=true "Light curves")
 
 ## Based on Van den Eijnden et al. (2023), MNRAS accepted (30 October 2023).
 The full paper, included updated versions can be found on https://arxiv.org/abs/ADDLINK (open access) and is included in this repository. 
