@@ -5,7 +5,7 @@
 ![Light curves](PaperFigures/lc.png?raw=true "Light curves")
 
 ## Based on Van den Eijnden et al. (2023), MNRAS accepted (30 October 2023).
-The full paper, included updated versions can be found on https://arxiv.org/abs/ADDLINK (open access) and is included in this repository. 
+The full paper, included updated versions can be found on https://arxiv.org/abs/2311.00631 (open access) and is included in this repository. 
 
 This reproduction repository contains the following files:
 - VLAscripts: scripts to flag, calibrate, and image all ten VLA radio observations, starting from the VLA data archive uncalibrated measurement sets. Includes a ReadMe with more detailed instructions.
